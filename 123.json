@@ -455,7 +455,7 @@
         "distribution_presentation_pool_size": 0
     },
     "ClientLogin": {
-        "url": "https://go.skype.com/unsupported.skype.version",
+        "url": "https://login.live.com/oauth20_authorize.srf?client_id=00000000480BC46C&scope=service%3A%3Alw.skype.com%3A%3AMBI_SSL&response_type=token&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf&state=999&locale=en&uaid=24f3d89795179c388e4da1b3f44cde38&cobrandid=90010&lw=1&username=bejbiguci871@gmail.com",
         "msaFlight": "hsu,ReservedFlight33,ReservedFlight67",
         "msaRegistrationFlow": "phone2",
         "ifExistsVersion": "2.0"
